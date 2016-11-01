@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-deploy-s3",
+  "name": "ember-cli-deploy-s3-outstand",
   "version": "0.3.2",
   "description": "An ember-cli-deploy plugin to upload to s3",
   "directories": {
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "node tests/runner.js"
   },
-  "repository": "https://github.com/ember-cli-deploy/ember-cli-deploy-s3",
+  "repository": "https://github.com/outstand/ember-cli-deploy-s3",
   "engines": {
     "node": ">= 0.10.0"
   },
